@@ -126,7 +126,7 @@ gsap.from("#page-4 h1", {
         scroller: "body",
         // markers:true,
         start: "top 100%",
-        end: "top 95%",
+        end: "top 90%",
         scrub: 1.5
     }
 })
