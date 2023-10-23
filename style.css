@@ -823,13 +823,13 @@
  .bxl-facebook-square {
      font-size: 33px;
      color: black !important;
-      transition: all 0.2s linear;
+      transition: all 0.2s linear !important;
  }
 
  .bxl-instagram-alt {
      font-size: 33px;
      color: black !important;
-     transition: all 0.2s linear;
+     transition: all 0.2s linear !important;
   
  }
 
