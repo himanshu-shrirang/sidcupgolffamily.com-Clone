@@ -80,7 +80,12 @@
      font-size: 14.5px;
      padding-top: 2px;
      font-weight: 450;
-
+     transition: all ease-in 0.1s;
+     
+    }
+    
+  .nav-options:hover {
+        scale: 1.05;
  }
 
  #nav-btns {
