@@ -1,5 +1,5 @@
 // cursor, blur cursor and there hover effect
-const hoveredElements = document.querySelectorAll('#nav-web-logo,  #overflow-break ,#arrow, .nav-options, #nav-btns button, .elem, .cards,#footer-container a, #footer-part-1-image-element img, .bxl-facebook-square ,.bxl-instagram-alt,#insta-follow ');
+const hoveredElements = document.querySelectorAll('#nav-web-logo,  #overflow-break ,#arrow, .nav-options, #nav-btns button,.img-part img ,.elem, .cards,#footer-container a, #footer-part-1-image-element img, .bxl-facebook-square ,.bxl-instagram-alt,#insta-follow ');
 const customCursor = document.getElementById('cursor');
 const blur = document.getElementById('cursor-blur');
 
